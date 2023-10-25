@@ -1,0 +1,17 @@
+names:
+- crazing
+- inclusion
+- patches
+- pitted_surface
+- rolled-in_scale
+- scratches
+nc: 6
+roboflow:
+  license: CC BY 4.0
+  project: defect-irxl0
+  url: https://universe.roboflow.com/vigyaan/defect-irxl0/dataset/2
+  version: 2
+  workspace: vigyaan
+test: ../test/images
+train: Defect-2/train/images
+val: Defect-2/valid/images
